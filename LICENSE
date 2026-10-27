@@ -1,0 +1,236 @@
+DECK ADVISOR
+COPYRIGHT NOTICE AND END USER LICENSE AGREEMENT
+
+Copyright (c) 2026 Brian Squires. All rights reserved.
+
+Last updated: October 26, 2026
+
+PLEASE READ THIS AGREEMENT CAREFULLY. BY DOWNLOADING, INSTALLING, COPYING
+OR USING DECK ADVISOR, YOU AGREE TO BE BOUND BY THIS AGREEMENT. IF YOU DO
+NOT AGREE, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE.
+
+This End User License Agreement ("Agreement") is between you ("you") and
+Brian Squires ("Licensor", "we", "us") and governs your use of
+Deck Advisor.
+
+
+1. DEFINITIONS
+
+1.1 "Software" means Deck Advisor in any form we make available, including
+    its executable files, compiled and bundled code, embedded user
+    interface, assets, documentation, and any updates, patches or new
+    versions we provide.
+
+1.2 "Proprietary Logic" means the methods, rules, models, weightings,
+    scoring formulas, heuristics, indexes and data structures the Software
+    uses to read cards, assess synergy, rank and explain suggestions,
+    identify combos and their status, assess what a new set changes, and
+    analyze decks, together with the code that implements them.
+
+1.3 "Third-Party Content" means content the Software downloads or displays
+    that belongs to others, including Magic: The Gathering card names,
+    rules text, card images, mana symbols and other materials owned by
+    Wizards of the Coast LLC; card data and images provided by Scryfall;
+    combo definitions provided by Commander Spellbook; and deck lists
+    provided by MTGJSON.
+
+
+2. OWNERSHIP AND RESERVATION OF RIGHTS
+
+2.1 The Software is licensed, not sold. Licensor and its licensors retain
+    all right, title and interest in and to the Software, including all
+    copyrights, trade secrets and other intellectual property rights in it.
+
+2.2 Licensor's rights cover the Software's code (in source, compiled,
+    bundled or obfuscated form), its binaries, its user interface and
+    original text, its original assets, and the selection, arrangement and
+    assembly of the application as a whole. The Proprietary Logic is
+    confidential and proprietary to Licensor: the code implementing it is
+    protected by copyright, and the logic itself is protected as a trade
+    secret and by this Agreement.
+
+2.3 All rights not expressly granted to you in this Agreement are
+    reserved by Licensor. No rights are granted by implication, estoppel
+    or otherwise.
+
+
+3. LICENSE GRANT
+
+3.1 Subject to your compliance with this Agreement, Licensor grants you a
+    limited, personal, revocable, non-exclusive, non-transferable,
+    non-sublicensable license to download, install and use the Software,
+    in executable form only, on computers you own or control, solely for
+    your personal, non-commercial use.
+
+3.2 The Software is provided free of charge. You may share links to the
+    official download page. You may freely use, print, share and publish
+    the decks, deck lists and guides you create with the Software for
+    personal, non-commercial purposes, subject to Section 4.1(g).
+
+
+4. RESTRICTIONS
+
+4.1 Except as expressly permitted by this Agreement or by applicable law
+    that cannot be waived by contract, you must not, and must not permit
+    or help anyone else to:
+
+    (a) reverse engineer, decompile, disassemble, deobfuscate, unpack,
+        extract or otherwise attempt to derive the source code, structure,
+        algorithms or Proprietary Logic of the Software;
+
+    (b) modify, adapt, translate, patch or create derivative works of the
+        Software or any part of it;
+
+    (c) copy, reproduce, replicate, re-implement or port the Proprietary
+        Logic, or use knowledge of the Software's internal workings to
+        build a product or service that does the same, whether in whole or
+        in part;
+
+    (d) distribute, redistribute, publish, mirror, upload, sell, resell,
+        rent, lease, lend, sublicense or otherwise make the Software
+        available to anyone else, including by bundling it with other
+        software or hosting it for others' use, except by sharing a link
+        to the official download page;
+
+    (e) use the Software, or any part of it, for any commercial purpose,
+        including charging for access to it or to its output, or
+        including it in a paid product or service;
+
+    (f) remove, alter or obscure any copyright, trademark, Fan Content
+        Policy or other notice in or on the Software;
+
+    (g) systematically query, scrape, record or collect the Software's
+        output (for example through its local programming interface) in
+        order to reconstruct, analyze, train a model on, or replicate the
+        Proprietary Logic;
+
+    (h) circumvent, disable or interfere with any technical measure that
+        protects the Software, including its obfuscation; or
+
+    (i) use the Software in violation of any applicable law, or of the
+        terms of the providers of Third-Party Content.
+
+4.2 Where applicable law gives you a right to decompile or analyze the
+    Software that cannot be excluded by contract (for example, to achieve
+    interoperability under certain laws), you may exercise that right
+    only to the extent and for the purpose the law permits, and only after
+    first asking Licensor in writing for the information you need.
+
+
+5. THIRD-PARTY CONTENT AND THE FAN CONTENT POLICY
+
+5.1 Deck Advisor is unofficial Fan Content permitted under the Fan Content
+    Policy. Not approved/endorsed by Wizards. Portions of the materials
+    used are property of Wizards of the Coast. (c)Wizards of the Coast LLC.
+
+5.2 Magic: The Gathering, its card names, rules text, card images, mana
+    symbols, set symbols and related marks are the intellectual property
+    of Wizards of the Coast LLC. Licensor claims no ownership of them, and
+    this Agreement grants you no rights in them. Your use of them is
+    subject to Wizards of the Coast's policies, including its Fan Content
+    Policy.
+
+5.3 Card data and images are provided by Scryfall, combo definitions by
+    Commander Spellbook, and deck lists by MTGJSON. Licensor claims no
+    ownership of their data, and your use of it is subject to their
+    respective terms. Licensor's rights under this Agreement cover the
+    Software, not the Third-Party Content it downloads or displays.
+
+5.4 In keeping with the Fan Content Policy, the Software is free. Licensor
+    will not charge for the Software or put any part of it behind a
+    paywall.
+
+
+6. DATA AND PRIVACY
+
+The Software runs on your computer and stores your decks, collection and
+settings locally. It does not collect, transmit or sell your personal data,
+and it contains no analytics or tracking. It connects to the internet only
+to download Third-Party Content from the services named in Section 5.3.
+
+
+7. UPDATES
+
+Licensor may, but is not obliged to, provide updates. Any update is part
+of the Software and is governed by this Agreement unless it comes with
+different terms. Licensor may change or discontinue the Software, or any
+feature of it, at any time.
+
+
+8. FEEDBACK
+
+If you send Licensor suggestions, bug reports or other feedback, you grant
+Licensor a perpetual, irrevocable, worldwide, royalty-free right to use it
+for any purpose, without obligation to you.
+
+
+9. TERMINATION
+
+This Agreement is effective until terminated. It terminates automatically,
+without notice, if you breach any of its terms. Licensor may also
+terminate it at any time by notice, including by publishing a notice on
+the official download page. On termination you must stop using the
+Software and delete all copies of it. Sections 2, 4, 5, 8, 10, 11, 12 and
+13 survive termination.
+
+
+10. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+ANY KIND. TO THE FULLEST EXTENT PERMITTED BY LAW, LICENSOR DISCLAIMS ALL
+WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND
+NON-INFRINGEMENT, AND ANY WARRANTY THAT THE SOFTWARE WILL BE ERROR-FREE OR
+UNINTERRUPTED, OR THAT ITS SUGGESTIONS, LEGALITY CHECKS, PRICES OR OTHER
+OUTPUT WILL BE ACCURATE OR COMPLETE. CARD DATA, PRICES AND BAN LISTS COME
+FROM THIRD PARTIES AND MAY BE OUT OF DATE. ALWAYS CHECK A DECK'S LEGALITY
+AGAINST THE OFFICIAL RULES BEFORE A SANCTIONED EVENT.
+
+
+11. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL LICENSOR BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR
+PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS OR GOODWILL, ARISING
+OUT OF OR RELATING TO THE SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S TOTAL LIABILITY FOR ALL CLAIMS
+WILL NOT EXCEED THE AMOUNT YOU PAID FOR THE SOFTWARE, WHICH IS ZERO, OR
+US$10, WHICHEVER IS GREATER.
+
+Some jurisdictions do not allow the exclusion of certain warranties or the
+limitation of certain liabilities, so some of the above may not apply to
+you. Nothing in this Agreement limits any rights you have as a consumer
+that cannot be limited by contract.
+
+
+12. GOVERNING LAW
+
+This Agreement is governed by the laws of the State of Connecticut, USA,
+without regard to its conflict-of-laws rules. The courts of
+Tolland County, CT have exclusive jurisdiction over any dispute arising
+from it, except that Licensor may seek injunctive relief in any court of
+competent jurisdiction to protect its intellectual property.
+
+
+13. GENERAL
+
+13.1 This Agreement is the entire agreement between you and Licensor about
+     the Software and supersedes any prior understanding.
+
+13.2 If any provision is held unenforceable, it will be enforced to the
+     maximum extent permitted, and the remaining provisions stay in full
+     effect.
+
+13.3 Licensor's failure to enforce any provision is not a waiver of it.
+
+13.4 You may not assign or transfer this Agreement or your rights under
+     it. Licensor may assign it without restriction.
+
+13.5 Licensor may update this Agreement. The version that applies is the
+     one published with the release of the Software you use.
+
+
+14. CONTACT
+
+Questions about this Agreement: the Issues page at
+https://github.com/Brian-Squires/deck-advisor-releases/issues.
