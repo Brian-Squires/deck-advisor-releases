@@ -45,7 +45,7 @@ Deck Advisor runs entirely on your computer. Your decks and collection never lea
 
 Deck Advisor wouldn't be possible without these projects. Deck Advisor isn't affiliated with, approved by or endorsed by any of them.
 
-- **[Scryfall](https://scryfall.com)**: card data, rules text, legalities, printings, prices, popularity ranking (EDHREC rank, as published by Scryfall) and **all card images**, downloaded from the Scryfall API and its bulk data files. Card images are shown as Scryfall serves them and remain the property of Wizards of the Coast. Following Scryfall's guidelines, Deck Advisor is free and doesn't put Scryfall data behind any paywall. Thank you to the Scryfall team for their outstanding free service.
+- **[Scryfall](https://scryfall.com)**: card data, rules text, legalities, printings, prices, popularity ranking (EDHREC rank, as published by Scryfall), **all card images** and the mana symbols, downloaded from the Scryfall API and its bulk data files. Card images are shown as Scryfall serves them and remain the property of Wizards of the Coast. Following Scryfall's guidelines, Deck Advisor is free and doesn't put Scryfall data behind any paywall. Thank you to the Scryfall team for their outstanding free service.
 - **[Commander Spellbook](https://commanderspellbook.com)**: the combo definitions (which cards combo, what each combo needs, and what it produces) that the app's combo detection is built on, from the Commander Spellbook API and bulk export. Thank you to the Commander Spellbook team and its community of contributors.
 - **[MTGJSON](https://mtgjson.com)**: the lists of Wizards of the Coast's preconstructed decks shown on the Premade decks page.
 
