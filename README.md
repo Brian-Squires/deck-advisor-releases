@@ -35,6 +35,8 @@ Deck Advisor runs on **Windows 10 and 11 (64-bit)**.
 
 **Updating.** Quit Deck Advisor, download the new exe from [Releases](../../releases), and run it. Your decks and collection are kept separately from the exe, in `%LOCALAPPDATA%\DeckAdvisor`, so they carry over. To back them up, copy `%LOCALAPPDATA%\DeckAdvisor\data\deck-advisor.db` while the app is closed.
 
+**Reporting a problem.** Open an [issue](../../issues) saying what you did and what happened. It helps to attach the log file, `%LOCALAPPDATA%\DeckAdvisor\logs\deck-advisor.log`: it records errors and data updates, and nothing about your decks or collection beyond card counts.
+
 **Only download Deck Advisor from this repository's Releases page.** Copies from anywhere else aren't official and may have been tampered with.
 
 ## Privacy
